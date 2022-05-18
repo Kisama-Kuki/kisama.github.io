@@ -1,6 +1,6 @@
-- name: Gallery
+- name: Galleria
   link: /
-- name: About
+- name: Acerca de mí
   link: /about/
-- name: Contact
+- name: Contacto
   link: /contact/
