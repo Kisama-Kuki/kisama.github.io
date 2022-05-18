@@ -1,13 +1,13 @@
 ### Site metadata
 
-title: Artist's Portfolio
+title: KISAMA
 description: A gallery of images for an artist's portfolio, built with Jekyll
 
-url: "https://artists-portfolio.netlify.app"
+url: "https://kisama.netlify.app"
 baseurl: ""
 
-github_username: "MichaelCurrin"
-repository: "MichaelCurrin/artists-portfolio"
+github_username: "Kisama-Kuki"
+repository: "Kisama-Kuki/kisama.github.io"
 
 google_analytics_key: ""
 
@@ -17,9 +17,9 @@ author:
   name: Michael Currin
   twitter:
 social:
-  name: Artist's Portfolio
+  name: KISAMA
   links:
-    - https://github.com/MichaelCurrin/artists-portfolio
+    - https://github.com/Kisama-Kuki/kisama.github.io
 
 ### Build settings
 
